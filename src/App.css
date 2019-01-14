@@ -1,0 +1,22 @@
+body{
+  padding: 50px;
+}
+.cursorPointer{
+	cursor: pointer;
+}
+
+.person-detail{
+	background-color: #ddd;
+	padding: 10px;
+}
+.person-detail span{
+	display: inline-block;
+	width: 150px;
+	font-weight: 700;
+}
+.hide{
+	display: none; 
+}
+.show{
+	display: block; 
+}
